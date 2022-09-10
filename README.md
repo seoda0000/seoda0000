@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://img.shields.io/badge/. . . Learning . . . -ffffff?style=flat-square&logo=&logoColor=black"/>
   <br>
 🤸
 <br>
