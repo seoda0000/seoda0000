@@ -10,7 +10,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoda0000)](https://solved.ac/seoda0000/)
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/seoda0000?pet-id=1" width="1000" height="120"/>
-</a>
 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/seoda0000?pet-id=617232769079677480"
+    width="1000"
+    height="120"
+  />
+</a>
+  
