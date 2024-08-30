@@ -13,11 +13,13 @@
 
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/seoda0000?pet-id=617232769079677480"
-    width="1000"
+    src="https://render.gitanimals.org/lines/seoda0000?pet-id=617229044554512419"
+    width="600"
     height="120"
   />
 </a>
+  
   
