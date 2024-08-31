@@ -17,7 +17,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/seoda0000?pet-id=617229044554512419"
-    width="600"
+    width="900"
     height="120"
   />
 </a>
