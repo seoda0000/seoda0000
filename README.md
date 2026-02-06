@@ -8,18 +8,18 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoda0000)](https://solved.ac/seoda0000/)
+<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoda0000&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seoda0000"
+  width="600"
+  height="300"
+/>
+</a>
+  
 </div>
 
 
 
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/seoda0000?pet-id=617229044554512419"
-    width="900"
-    height="120"
-  />
-</a>
-  
-  
